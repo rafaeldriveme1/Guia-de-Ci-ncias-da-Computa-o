@@ -93,8 +93,7 @@ lim x -> -& | 1 / x = 0
 
 #### Gráfico
 
-![Noção Intuitiva de Limites - Cálculo 1](/images/Nocao-Intuitiva-de-Limites-Calculo-1.png)
-Format: ![Noção Intuitiva de Limites - Cálculo 1](url)
+![Noção Intuitiva de Limites - Cálculo 1](/1-periodo/images/Nocao-Intuitiva-de-Limites-Calculo-1.png)
 
 ## Função do 2º Grau (parabola)
 
@@ -130,8 +129,7 @@ Obs: O f(x) também pode ser considerado o Y do gráfico
 
 #### Gráfico
 
-![Noção Intuitiva de Limites - Cálculo 1](/images/Nocao-Intuitiva-de-Limites-Calculo-1--1.png)
-Format: ![Noção Intuitiva de Limites - Cálculo 1](url)
+![Noção Intuitiva de Limites - Cálculo 1](/1-periodo/images/Nocao-Intuitiva-de-Limites-Calculo-1--1.png)
 
 ## Outros exemplos
 
@@ -162,8 +160,7 @@ y = ~2
 
 Resposta: 2
 
-![Noção Intuitiva de Limites - Cálculo 1](/images/Nocao-Intuitiva-de-Limites-Calculo-1--2.png)
-Format: ![Noção Intuitiva de Limites - Cálculo 1](url)
+![Noção Intuitiva de Limites - Cálculo 1](/1-periodo/images/Nocao-Intuitiva-de-Limites-Calculo-1--2.png)
 
 ## Referencias
 

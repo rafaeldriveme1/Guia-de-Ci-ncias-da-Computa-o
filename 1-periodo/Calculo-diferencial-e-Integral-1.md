@@ -8,7 +8,7 @@ de variáveis e os diferentes tipos de funções
 
 #### Sumario
 
-[- Noção Intuitiva de Limites](url){:target="_blank"}
+[- Noção Intuitiva de Limites](#user-content-noção-intuitiva-de-limites)
 
 ## Noção Intuitiva de Limites
 

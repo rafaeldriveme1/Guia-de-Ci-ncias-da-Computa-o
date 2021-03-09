@@ -34,7 +34,7 @@ X -> -& (x tendendo a - infinito)
 
 #### Sem limite
 
-A sequência 1, 1/2, 2, 2/3, 3, 3/4... está retrocedendo parte dela no limite do + infinito, e a
+A sequência 1, 1/2, 2, 2/3, 3, 3/4... está tendendo parte dela no limite do + infinito, e a
 outra parte para o limite de 1, portanto não tem limite.
 
 ## Funções

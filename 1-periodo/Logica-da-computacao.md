@@ -15,4 +15,4 @@ lógica de predicados; decidibilidade.
 | Conteúdo  | links |
 | ------------- | ------------- |
 | PDF  | [Link](https://www.dcc.fc.up.pt/~nam/publica/nlc.pdf)  |
-| YOUTUBE  | [Link](https://www.youtube.com/playlist?list=PLYLYA7XrlskN5ZTzu5evPZBj_6FDuSvra)  |
+| YOUTUBE  | [Link](https://www.youtube.com/watch?v=b3eRNTG62YU)  |

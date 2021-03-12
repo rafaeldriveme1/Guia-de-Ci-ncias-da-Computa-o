@@ -22,3 +22,7 @@ https://uspdigital.usp.br/jupiterweb/listarGradeCurricular?codcg=55&codcur=55041
 #### UNIVERSIDADE FEDERAL DE UBERLÂNDIA
 
 http://www.portal.facom.ufu.br/system/files/conteudo/grade_2010-1.jpg
+
+#### Limites
+
+https://www.infoescola.com/matematica/limites/

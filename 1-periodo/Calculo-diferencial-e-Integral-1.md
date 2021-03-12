@@ -168,10 +168,33 @@ Resposta: 2
 
 ![Noção Intuitiva de Limites - Cálculo 1](/1-periodo/images/Nocao-Intuitiva-de-Limites-Calculo-1--2.png)
 
+## Definição formal de Limites
+
+De fato, a definição formal de limites é um pouco complexa, mas vamos iniciar de uma forma mais fácil. Supondo que, a partir do primeiro gráfico, a função não fosse contínua em 𝑎 e tivesse essa forma:
+
+```
+| x - a | < k => x E (a - k, a + k)
+```
+
+![Definição formal de Limites](/1-periodo/images/definicao-de-limite-1.png)
+
+Observe novamente o primeiro gráfico, onde a função é contínua em 𝑎. As setas indicam que a medida que 𝑥 se aproxima de 𝑎, pela direita ou pela esquerda,os valores de 𝑓(𝑥) se aproximam de 𝑓(𝑎). Consequentemente, quanto mais próximo 𝑥 estiver de 𝑎, mais próximo 𝑓(𝑥) estará de 𝑓(𝑎). De uma forma intuitiva, podemos dizer que se 𝑓 é contínua em 𝑎, então o limite de 𝑥 tendendo a 𝑎, da função 𝑓(𝑥) é igual a 𝑓(𝑎). Na notação usual, escrevemos:
+
+![Definição formal de Limites](/1-periodo/images/definicao-de-limite-2.png)
+
+Por outro lado, se a função 𝑓 não é contínua em 𝑎, e mesmo assim atribuíssemos um limite 𝐿, tal que:
+
+![Definição formal de Limites](/1-periodo/images/definicao-de-limite-3.png)
+
+Então, 𝐿 é o valor que 𝑓 deveria ter em 𝑎. Veja abaixo uma ilustração para melhor compreensão:
+
+![Definição formal de Limites](/1-periodo/images/definicao-de-limite-4.png)
+
 ## Referências
 
 | Conteúdo  | links |
 | ------------- | ------------- |
 | PDF  | [Link](https://petemb.ufsc.br/files/2015/03/Apostila-Calculo-I-PROTEGIDA.pdf)  |
 | YOUTUBE  | [Link](https://www.youtube.com/playlist?list=PLEfwqyY2ox86LhxKybOY3_IG-7R5herLC)  |
+
 

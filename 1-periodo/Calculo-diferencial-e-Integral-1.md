@@ -9,6 +9,8 @@ de variáveis e os diferentes tipos de funções
 #### Sumario
 
 [00. Noção Intuitiva de Limites](#user-content-noção-intuitiva-de-limites)
+[01. Definição formal de Limites](#user-content-definição-formal-de-limites)
+[02. Propriedade dos Limites](#user-content-propriedade-dos-limites)
 
 ## Noção Intuitiva de Limites
 
@@ -190,11 +192,37 @@ Então, 𝐿 é o valor que 𝑓 deveria ter em 𝑎. Veja abaixo uma ilustraç�
 
 ![Definição formal de Limites](/1-periodo/images/definicao-de-limite-4.png)
 
+## Propriedades do Limites
+
+Unicidade dos limites: O limite, se existir, é unico.
+
+#### Exemplo 1
+
+```
+lim x -> a | p(x) = p(a) (p(x) = Polinômio)
+```
+
+```
+a) lim x-> 2 (3x-1) = 3.2-1 = 6-1=5
+```
+
+```
+b) lim x-> 1 (x^5-3x^2+2) = 1^5 - 3.1^2 + 2 = 1 - 3 + 2 = 0
+```
+
+#### Exemplo 2
+
+```
+Se lim x -> a f(x) e lim x -> a g(x) Existem E ce IR:
+```
+
+![Propriedade dos Limites - Cálculo 1](/1-periodo/images/Propriedade-dos-Limites.png)
+
 ## Referências
 
-| Conteúdo  | links |
+| Conteúdo  | links | Autor
 | ------------- | ------------- |
 | PDF  | [Link](https://petemb.ufsc.br/files/2015/03/Apostila-Calculo-I-PROTEGIDA.pdf)  |
-| YOUTUBE  | [Link](https://www.youtube.com/playlist?list=PLEfwqyY2ox86LhxKybOY3_IG-7R5herLC)  |
+| YOUTUBE  | [Link](https://www.youtube.com/playlist?list=PLEfwqyY2ox86LhxKybOY3_IG-7R5herLC)  | Equaciona Com Paulo Pereira |
 
 

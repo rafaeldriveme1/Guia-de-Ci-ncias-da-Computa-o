@@ -9,7 +9,9 @@ de variáveis e os diferentes tipos de funções
 #### Sumario
 
 [00. Noção Intuitiva de Limites](#user-content-noção-intuitiva-de-limites)
+
 [01. Definição formal de Limites](#user-content-definição-formal-de-limites)
+
 [02. Propriedade dos Limites](#user-content-propriedade-dos-limites)
 
 ## Noção Intuitiva de Limites
@@ -220,9 +222,9 @@ Se lim x -> a f(x) e lim x -> a g(x) Existem E ce IR:
 
 ## Referências
 
-| Conteúdo  | links | Autor
-| ------------- | ------------- |
-| PDF  | [Link](https://petemb.ufsc.br/files/2015/03/Apostila-Calculo-I-PROTEGIDA.pdf)  |
+| Conteúdo      | links         | Autor |
+| ------------- | ------------- | ----- |
+| PDF  | [Link](https://petemb.ufsc.br/files/2015/03/Apostila-Calculo-I-PROTEGIDA.pdf)  | |
 | YOUTUBE  | [Link](https://www.youtube.com/playlist?list=PLEfwqyY2ox86LhxKybOY3_IG-7R5herLC)  | Equaciona Com Paulo Pereira |
 
 

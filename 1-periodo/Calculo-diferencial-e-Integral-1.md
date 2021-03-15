@@ -14,6 +14,8 @@ de variáveis e os diferentes tipos de funções
 
 [02. Propriedade dos Limites](#user-content-propriedade-dos-limites)
 
+[03. Cálculo de Limites - Exercícios 1](#user-content-cálculo-de-limites---exercícios-1)
+
 ## Noção Intuitiva de Limites
 
 Notamos que à medida que x se aproxima de 1, y se aproxima de 3, ou seja, quando x tende para 1 (x 1), y tende para 3 (y 3), ou seja: ... Se f(x) tende para 3 (f(x) 3), dizemos que o limite de f(x) quando x 1 é 3, embora possam ocorrer casos em que para x = 1 o valor de f(x) não seja 3.
@@ -219,6 +221,18 @@ Se lim x -> a f(x) e lim x -> a g(x) Existem E ce IR:
 ```
 
 ![Propriedade dos Limites - Cálculo 1](/1-periodo/images/Propriedade-dos-Limites.png)
+
+![Propriedade dos Limites - Cálculo 1](/1-periodo/images/Propriedade-dos-Limites-2.png)
+
+![Propriedade dos Limites - Cálculo 1](/1-periodo/images/Propriedade-dos-Limites-3.png)
+
+![Propriedade dos Limites - Cálculo 1](/1-periodo/images/Propriedade-dos-Limites-4.png)
+
+## Cálculo de Limites - Exercícios 1
+
+![Exercicios A - Cálculo 1](/1-periodo/images/exercicios-1-a.png)
+
+![Exercicios B - Cálculo 1](/1-periodo/images/exercicios-1-b.png)
 
 ## Referências
 

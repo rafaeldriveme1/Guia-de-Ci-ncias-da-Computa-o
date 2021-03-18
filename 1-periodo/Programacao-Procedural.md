@@ -23,17 +23,17 @@ gcc main.c -o main
 ./main.exe
 ```
 
-#### Sumario
+## Sumario
 
-[00. Histórico, printf, Hello World](#user-content-Histórico--printf--Hello-World)
+[00. Histórico, printf, Hello World](#user-content-histórico-printf-hello-world)
 
-[01. Case-Sensitive, scanf, comentários](#user-content-Case-Sensitive--scanf--comentários)
+[01. Case-Sensitive, scanf, comentários](#user-content-case-sensitive-scanf-comentários)
 
-[02. Tipos de variáveis](#user-content-Tipos-de-variáveis)
+[02. Tipos de variáveis](#user-content-tipos-de-variáveis)
 
-[03. Operadores Aritméticos e Relacionais ](#user-content-Operadores-Aritméticos-e-Relacionais)
+[03. Operadores Aritméticos e Relacionais ](#user-content-operadores-aritméticos-e-relacionais)
 
-#### Histórico, printf, Hello World 
+## Histórico, printf, Hello World 
 
 ```c
 #include <stdio.h>
@@ -47,7 +47,7 @@ int main(int argc, char *argv[]) {
 }
 ```
 
-#### Case-Sensitive, scanf, comentários 
+## Case-Sensitive, scanf, comentários 
 
 ```c
 #include <stdio.h>
@@ -67,7 +67,7 @@ int main(int argc, char *argv[]) {
 }
 ```
 
-#### Tipos de variáveis
+## Tipos de variáveis
 
 ![Tipos de variáveis](/1-periodo/images/c/tipos-variaveis.png)
 
@@ -103,7 +103,7 @@ int main(int argc, char *argv[]) {
 }
 ```
 
-#### Operadores Aritméticos e Relacionais 
+## Operadores Aritméticos e Relacionais 
 
 ![Operadores Aritméticos e Relacionais ](/1-periodo/images/c/operadores-1.png)
 

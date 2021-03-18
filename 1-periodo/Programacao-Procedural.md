@@ -129,6 +129,6 @@ int main(int argc, char *argv[]) {
 ## Referencias
 
 | Conteúdo  | links | Credito |
-| ------------- | ------------- |
+| ------------- | ------------- | ------------- | 
 | PDF  | [Link](https://www.ime.usp.br/~slago/slago-C.pdf)  | |
 | YOUTUBE  | [Link](https://www.youtube.com/playlist?list=PLZ8dBTV2_5HTGGtrPxDB7zx8J5VMuXdob)  | WR Kits |

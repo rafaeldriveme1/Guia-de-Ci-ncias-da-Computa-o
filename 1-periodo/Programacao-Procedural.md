@@ -25,13 +25,13 @@ gcc main.c -o main
 
 #### Sumario
 
-[00. Histórico, printf, Hello World ](#user-content-noção-intuitiva-de-limites)
+[00. Histórico, printf, Hello World](#user-content-Histórico--printf--Hello-World)
 
-[01. Case-Sensitive, scanf, comentários ](#user-content-definição-formal-de-limites)
+[01. Case-Sensitive, scanf, comentários](#user-content-Case-Sensitive--scanf--comentários)
 
-[02. Tipos de variáveis](#user-content-propriedade-dos-limites)
+[02. Tipos de variáveis](#user-content-Tipos-de-variáveis)
 
-[03. Operadores Aritméticos e Relacionais ](#user-content-cálculo-de-limites---exercícios-1)
+[03. Operadores Aritméticos e Relacionais ](#user-content-Operadores-Aritméticos-e-Relacionais)
 
 #### Histórico, printf, Hello World 
 
@@ -128,7 +128,7 @@ int main(int argc, char *argv[]) {
 
 ## Referencias
 
-| Conteúdo  | links | Credito
+| Conteúdo  | links | Credito |
 | ------------- | ------------- |
-| PDF  | [Link](https://www.ime.usp.br/~slago/slago-C.pdf)  |
-| YOUTUBE  | [Link](https://www.youtube.com/playlist?list=PLZ8dBTV2_5HTGGtrPxDB7zx8J5VMuXdob)  | WR Kits
+| PDF  | [Link](https://www.ime.usp.br/~slago/slago-C.pdf)  | |
+| YOUTUBE  | [Link](https://www.youtube.com/playlist?list=PLZ8dBTV2_5HTGGtrPxDB7zx8J5VMuXdob)  | WR Kits |
